@@ -23,4 +23,5 @@ Using [NOAA Global DEM](https://ngdc.noaa.gov/mgg/topo/globe.html) for elevation
   - 1 node = 1000m at 60°N/S
 - Vertical resolution: 1 node = 200m
 - File size: 24.8 MB
+- **Download: [world_2km.dat](https://github.com/Gael-de-Sailly/geo-mapgen-demos/blob/master/world_2km.dat?raw=true)**
 ![France](https://user-images.githubusercontent.com/6905002/36617435-b68915ac-18e7-11e8-9436-95cb67dd2ac4.png)
