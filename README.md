@@ -12,6 +12,7 @@ Currently 2 maps are available.
 
 ### World 2km
 Map of the whole world. Elevation (but not bathymetry) and biomes.
+![France](https://user-images.githubusercontent.com/6905002/36617435-b68915ac-18e7-11e8-9436-95cb67dd2ac4.png)
 - Projection: Mercator (EPSG:3857)
 - Coverage: Worldwide (85°N to 85°S)
 - Size: 20037x20037
@@ -24,10 +25,10 @@ Map of the whole world. Elevation (but not bathymetry) and biomes.
 - Vertical resolution: 1 node = 200m
 - File size: 24.8 MB
 - **Download: [world_2km.dat](https://github.com/Gael-de-Sailly/geo-mapgen-demos/blob/master/world_2km.dat?raw=true)**
-![France](https://user-images.githubusercontent.com/6905002/36617435-b68915ac-18e7-11e8-9436-95cb67dd2ac4.png)
 
 ### Alps 80m
 Large rectangle around the Alps, with high resolution.
+![Mont Blanc](https://user-images.githubusercontent.com/6905002/36748401-0b8d481c-1bf8-11e8-8a11-945b1dd2ab4d.png)
 - Projection: Mercator (EPSG:3857)
 - Coverage: 5°E to 10°E, 40°N to 50°N
   - Full Switzerland
@@ -42,4 +43,3 @@ Large rectangle around the Alps, with high resolution.
 - Vertical resolution: 1 node = 40m
 - File size: 30.6 MB
 - **Download: [alps_80m.dat](https://github.com/Gael-de-Sailly/geo-mapgen-demos/blob/master/alps_80m.dat?raw=true)**
-![Mont Blanc](https://user-images.githubusercontent.com/6905002/36748401-0b8d481c-1bf8-11e8-8a11-945b1dd2ab4d.png)
