@@ -30,7 +30,7 @@ Map of the whole world. Elevation (but not bathymetry) and biomes.
 Large rectangle around the Alps, with high resolution.
 ![Mont Blanc](https://user-images.githubusercontent.com/6905002/36748401-0b8d481c-1bf8-11e8-8a11-945b1dd2ab4d.png)
 - Projection: Mercator (EPSG:3857)
-- Coverage: 5°E to 10°E, 40°N to 50°N
+- Coverage: 5°E to 15°E, 40°N to 50°N
   - Full Switzerland
   - North of Italy
   - East of France
